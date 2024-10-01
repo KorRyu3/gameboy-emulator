@@ -1,3 +1,1 @@
-# gameboy-emulator
-
-[Rustで作るGAME BOYエミュレータ](https://techbookfest.org/product/sBn8hcABDYBMeZxGvpWapf)
+# [Rustで作るGAME BOYエミュレータ](https://techbookfest.org/product/sBn8hcABDYBMeZxGvpWapf)
